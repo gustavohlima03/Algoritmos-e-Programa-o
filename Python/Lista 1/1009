@@ -1,0 +1,7 @@
+nVendedor=input()
+salarioF=float(input())
+totalV=float(input())
+
+bonus = float(totalV*(15/100))
+total = (salarioF+bonus)
+print("TOTAL = R$ %.2f" % total)
