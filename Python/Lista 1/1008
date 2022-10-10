@@ -1,6 +1,0 @@
-n = int(input())
-ht = int(input())
-s = float(input())
-
-print("NUMBER = %d" %(n))
-print("SALARY = U$%.2f" %(ht * s))
